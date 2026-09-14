@@ -1,5 +1,4 @@
 #include <iostream>
 int main() {
-  std::cout<<"hello world"<<"\n";
-  return 0;
+  std::cout<<"hello top-it\n";
 }
